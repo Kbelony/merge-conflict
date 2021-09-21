@@ -1,4 +1,4 @@
-# merge-conflict
+LOCAL
 az
 az
 zae
