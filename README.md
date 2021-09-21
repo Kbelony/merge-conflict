@@ -1,4 +1,4 @@
-# merge-conflict
+REMOTE
 az
 az
 zae
